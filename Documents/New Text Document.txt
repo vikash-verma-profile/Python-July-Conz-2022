@@ -24,3 +24,9 @@ Tuple
 ()
 Tuple is ordered and unchnagable
 we cannot change ,add or remove after tuple is created
+
+sets
+{}
+set items are unchnagable but we can remove and add new items
+unordered
+Duplicated are not allowed
