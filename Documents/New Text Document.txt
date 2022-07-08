@@ -17,5 +17,10 @@ Python
 -Identity operators	 is, is not
 
 Lists
-
+[]
 Lists are used to store multiple items in a single variable
+
+Tuple
+()
+Tuple is ordered and unchnagable
+we cannot change ,add or remove after tuple is created
