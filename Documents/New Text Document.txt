@@ -1,0 +1,21 @@
+Build-in data types
+
+Text str
+Numeric int,float,complex
+Sequence Types list,tuple,range
+Mapping Type dict
+set Types set,frozenset
+Boolean Type bool
+Binary types bytes,bytearray
+
+
+Python 
+-Arithmetic operators  +,-,*,/,%,**,//
+-Assignment operators  =,+=,
+-Comparison operators	==,!=,<,>,>=,<=
+-Logical operators 		and,or,not 
+-Identity operators	 is, is not
+
+Lists
+
+Lists are used to store multiple items in a single variable
